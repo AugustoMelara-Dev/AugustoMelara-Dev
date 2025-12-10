@@ -29,6 +29,5 @@ Plataforma web desarrollada con el stack más reciente del ecosistema React. Est
 ---
 
 ### ⚡ Un poco sobre mí
-* 🎓 **Estudios:** Avanzando en materias como Cálculo y Física (Leyes de Newton, Proyectiles), aplicando esa lógica matemática al código.
 * 🎮 **Hobby:** Fanático de la estrategia en tiempo real (*Total War: Warhammer 3* y *Rome II*). Me gusta planificar a largo plazo.
 * 🌱 **Meta:** Crear software que resuelva problemas reales en Honduras.
