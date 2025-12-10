@@ -34,12 +34,3 @@ Plataforma web desarrollada con el stack más reciente del ecosistema React. Est
 * 🌱 **Meta:** Crear software que resuelva problemas reales en Honduras.
 
 ---
-
-<div align="left">
-  <a href="mailto:ajmds.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/tu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
