@@ -3,7 +3,7 @@
 # Augusto Melara
 
 ### Fundador de VitoCode Technologies · Full-stack & Product Engineer
-#### Estudiante de Ingeniería en Ciencias de la Computación (UNICAH) 🇭🇳
+#### Estudiante de Ingeniería en Informática (CEUTEC–UNITEC) 🇭🇳
 
 Construyo software para operaciones reales: ventas, caja, inventario, expedientes, servicios y automatización.  
 Mi enfoque es crear tecnología seria, accesible y preparada para las condiciones de Honduras y Latinoamérica.
