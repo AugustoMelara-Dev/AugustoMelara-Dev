@@ -2,19 +2,21 @@
 
 # Augusto Melara
 
-### Fundador de VitoCode Technologies · Full-stack & Product Engineer
-#### Estudiante de Ingeniería en Informática (CEUTEC–UNITEC) 🇭🇳
+### Fundador de VitoCode Technologies · Construyendo Dovra AI
 
-Construyo software para operaciones reales: ventas, caja, inventario, expedientes, servicios y automatización.  
-Mi enfoque es crear tecnología seria, accesible y preparada para las condiciones de Honduras y Latinoamérica.
+#### Product Builder · Desarrollador Full-Stack · Estudiante de Ingeniería en Informática en CEUTEC–UNITEC 🇭🇳
 
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
+Construyo software para operaciones reales: ventas, caja, inventario, expedientes, servicios, automatización e inteligencia artificial gobernada.  
+Mi enfoque es crear tecnología seria, accesible y preparada para crecer desde Honduras hacia mercados globales.
+
+[![Dovra AI](https://img.shields.io/badge/Building-Dovra_AI-111827?style=flat-square)](https://github.com/AugustoMelara-Dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![MySQL](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 [![Honduras](https://img.shields.io/badge/Tocoa%2C%20Col%C3%B3n-Honduras-0F4C81?style=flat-square)](https://github.com/AugustoMelara-Dev)
 
 </div>
@@ -23,11 +25,13 @@ Mi enfoque es crear tecnología seria, accesible y preparada para las condicione
 
 ## Hola, soy Augusto 👋
 
-Soy desarrollador autodidacta y construyo desde Tocoa, Colón. Me interesa llevar un producto completo desde la idea hasta su operación: modelado del negocio, backend, interfaz, seguridad, pruebas, despliegue y soporte.
+Soy desarrollador autodidacta y constructor de productos digitales desde Tocoa, Colón, Honduras.
 
-Trabajo especialmente en sistemas multi-tenant, herramientas administrativas y productos *local-first* capaces de funcionar con conectividad limitada. También exploro agentes de IA gobernados, automatización y flujos con aprobación humana.
+Me interesa llevar un producto completo desde la idea hasta su operación: comprender el problema, modelar el negocio, construir el backend y la interfaz, proteger los datos, probar los flujos críticos, preparar el despliegue y mantener el sistema funcionando.
 
-No intento presentar prototipos como productos terminados. Prefiero que cada promesa pueda respaldarse con código, pruebas o evidencia operativa.
+Trabajo principalmente en plataformas SaaS, sistemas empresariales multi-tenant, aplicaciones locales resilientes y productos con inteligencia artificial.
+
+No intento presentar prototipos como productos terminados. Prefiero que cada promesa pueda respaldarse con código, pruebas, documentación o evidencia operativa.
 
 ---
 
@@ -35,18 +39,30 @@ No intento presentar prototipos como productos terminados. Prefiero que cada pro
 
 ### Dovra AI
 
-Estoy evolucionando **Conecta HN / Vito Business OS** hacia `Dovra AI`: un Business OS conversacional para ventas y operaciones empresariales, con Honduras como primer *Market Pack*.
+`Dovra AI` es el producto principal que estoy construyendo: un **Business OS conversacional global con una fuerza de trabajo de IA y un marketplace conversacional**.
 
-La plataforma parte de capacidades reales ya construidas —micrositios, catálogo, pedidos, reservas, CRM, paneles operativos, campañas, analytics y billing— y avanza hacia una arquitectura global con:
+Su objetivo es convertir los datos estructurados, las reglas operativas y las conversaciones de cada negocio en agentes de IA gobernados capaces de:
 
-- multi-tenancy, RBAC y aislamiento verificable
-- automatizaciones, herramientas y flujos auditables
-- IA gobernada con aprobación humana
-- créditos, billing y límites de uso
-- seguridad, privacidad, observabilidad y evidencia de release
-- experiencias web, PWA y canales conversacionales
+- responder consultas de clientes;
+- descubrir y recomendar productos o servicios verificables;
+- capturar y calificar oportunidades;
+- preparar pedidos, reservaciones, cotizaciones y seguimientos;
+- automatizar trabajo repetitivo con supervisión humana;
+- medir los resultados que la IA ayudó a producir.
 
-> **Estado:** desarrollo activo. La transformación se está ejecutando por programas verificables; no la presento todavía como un lanzamiento global terminado.
+Dovra no busca ser solamente un chatbot o una capa de prompts. Se diseña alrededor del contexto real del negocio, permisos, políticas, aprobaciones, trazabilidad, evaluaciones y resultados medibles.
+
+### Ecosistema previsto
+
+- **Dovra Business:** espacio operativo para propietarios y equipos.
+- **Dovra Agents:** empleados digitales gobernados para ventas, soporte, reservas y seguimiento.
+- **Dovra Automate:** workflows, eventos, aprobaciones, reintentos e historial de ejecución.
+- **Dovra Discover:** búsqueda conversacional de negocios, productos y servicios.
+- **Dovra Platform:** identidad, multi-tenancy, integraciones, APIs, seguridad, auditoría y observabilidad.
+
+Dovra aprovecha los aprendizajes y capacidades desarrolladas en plataformas anteriores como Conecta HN y Vito Business OS, pero se está construyendo como un producto nuevo, API-first y preparado para operar globalmente.
+
+> **Estado:** desarrollo activo. Honduras será el primer mercado, no el límite del producto.
 
 ---
 
@@ -54,13 +70,16 @@ La plataforma parte de capacidades reales ya construidas —micrositios, catálo
 
 | Proyecto | Qué resuelve | Estado |
 | --- | --- | --- |
-| **Dovra AI** | Business OS conversacional y multi-tenant para ventas y operaciones | Desarrollo activo · repositorio privado |
-| **S_Hospital** | Facturación, caja, pagos, reportes, auditoría y respaldos para operación hospitalaria local, con instalador Windows y funcionamiento offline/LAN | Entrega piloto · repositorio privado |
-| **Agentic Business Platform** | Plataforma API-first con herramientas controladas, workflows, auditoría y aprobaciones humanas para acciones de IA | I+D activa · repositorio privado |
-| **Sistema de Trabajo** | Gestión multi-rol de expedientes, documentos, pagos, tareas, agenda y auditoría, acompañada por una landing pública | Release candidate · repositorio privado |
-| [**Conexión Bíblica 2026**](https://github.com/AugustoMelara-Dev/conexion-biblica-2026) | Entrenador offline con 2,033 preguntas válidas y cobertura de 514/514 unidades de estudio | Público · funcional |
-| [**Nico Experience Web**](https://github.com/AugustoMelara-Dev/nico-experience-web) | Sitio de turismo y alojamientos para un negocio de Tocoa, con SEO local, accesibilidad y contacto contextual por WhatsApp | Público · desplegable |
-| **Mi Caja Nicolle** | Control privado de caja, ingresos, gastos, cuentas por cobrar y recibos internos con Supabase y RLS | Producto interno · repositorio privado |
+| **Dovra AI** | Business OS conversacional con agentes de IA gobernados, operaciones empresariales, automatización y discovery | Desarrollo activo · repositorio privado |
+| **Dovra Platform Foundation** | Base API-first para identidad, workspaces, permisos, herramientas controladas, workflows, auditoría, workers y aprobaciones humanas | I+D activa · repositorio privado |
+| **S_Hospital** | Facturación, caja, pagos, reportes, recibos institucionales, auditoría y respaldos para operación hospitalaria local mediante LAN | Preparación de despliegue · repositorio privado |
+| **Sistema de Gestión Multiservicios** | Gestión multi-rol de expedientes SACE/TSC, documentos privados, pagos, tareas, agenda, interacciones y auditoría | Desarrollo avanzado · repositorio privado |
+| **VitoPOS** | SaaS multi-tenant para compras, ventas, inventario, clientes, proveedores, facturación y planes de suscripción | Proyecto privado |
+| [**Conexión Bíblica 2026**](https://github.com/AugustoMelara-Dev/conexion-biblica-2026) | Aplicación offline de estudio adaptativo con 2.033 preguntas válidas y cobertura de 514 de 514 unidades | Público · funcional |
+| [**Nico Experience Web**](https://github.com/AugustoMelara-Dev/nico-experience-web) | Plataforma de turismo y alojamientos con catálogo, SEO local, mapas y contacto contextual mediante WhatsApp | Público · desplegable |
+| **Mi Caja Nicolle** | Control interno de caja, ingresos, gastos, cuentas por cobrar y recibos con Supabase y RLS | Producto interno · repositorio privado |
+
+Parte de mi trabajo comercial e institucional permanece en repositorios privados por confidencialidad.
 
 ---
 
@@ -68,13 +87,13 @@ La plataforma parte de capacidades reales ya construidas —micrositios, catálo
 
 | Área | Tecnologías y prácticas |
 | --- | --- |
-| Backend | Laravel, PHP, APIs REST, Sanctum, queues, Node.js y Bun |
-| Frontend | React, TypeScript, Inertia.js, Next.js, Astro, Tailwind CSS |
-| Datos | MySQL, MariaDB, PostgreSQL, Supabase, SQLite, Redis, Prisma |
-| Arquitectura | Multi-tenancy, DDD pragmático, monolito modular, Ports & Adapters, RBAC/RLS, Outbox y CQRS light |
+| Frontend | TypeScript, React, Next.js, Inertia.js, Astro, Tailwind CSS y shadcn/ui |
+| Backend y APIs | Laravel, PHP, NestJS, Node.js, Bun, APIs REST, workers y webhooks |
+| Datos | PostgreSQL, MySQL, MariaDB, Supabase, SQLite, Redis y Prisma |
+| Arquitectura | Multi-tenancy, monolito modular, DDD pragmático, Ports and Adapters, API-first, RBAC, RLS, Outbox e idempotencia |
+| Inteligencia artificial | Agentes con herramientas, RAG, streaming, evaluaciones, límites de uso, auditoría y human-in-the-loop |
 | Calidad | PHPUnit, Pest, Vitest, Playwright, PHPStan, pruebas E2E y guardrails de release |
-| Operación | Docker Compose, Vercel, Railway, PWA, sistemas offline/LAN e instaladores para Windows |
-| IA | Agentes con herramientas, streaming, RAG, auditoría, límites de uso y human-in-the-loop |
+| Operación | Docker Compose, Vercel, Railway, PWA, sistemas offline/LAN, respaldos e instaladores para Windows |
 
 ---
 
@@ -83,29 +102,33 @@ La plataforma parte de capacidades reales ya construidas —micrositios, catálo
 - La arquitectura debe proteger reglas reales de negocio, no decorar el código.
 - Un sistema multi-tenant necesita aislamiento demostrable, no solo una columna `tenant_id`.
 - Los flujos críticos deben tener pruebas y estados de error comprensibles.
-- Offline, respaldos, restauración e instalación también son parte del producto.
-- La IA necesita permisos, límites, trazabilidad y aprobación humana cuando ejecuta acciones.
+- La seguridad, los respaldos, la restauración y la instalación también son parte del producto.
+- La inteligencia artificial propone; el sistema valida, autoriza y registra.
+- Los agentes necesitan permisos, límites, trazabilidad y aprobación humana cuando ejecutan acciones sensibles.
 - Las promesas comerciales deben coincidir con lo que el software puede entregar hoy.
 
 ---
 
 ## Más sobre mí
 
-- ✍️ Escribo en [VitoCipher](https://vitocipher.vercel.app/)
-- 🌱 Quiero ampliar el acceso a tecnología útil para negocios e instituciones locales
-- 📡 Me interesan el hacking ético, las redes offline y los sistemas resilientes
-- 🎮 Disfruto juegos de estrategia como *Total War: Rome II* y *War Thunder*
+- ✍️ Escribo y comparto ideas en [VitoCipher](https://vitocipher.vercel.app/).
+- 🌱 Quiero ampliar el acceso a tecnología útil para negocios, instituciones y comunidades.
+- 📡 Me interesan el hacking ético, las redes offline y los sistemas resilientes.
+- 🎮 Disfruto juegos de estrategia como *Total War: Rome II* y *War Thunder*.
 
 ---
 
 ## La historia detrás de VitoCode
 
-`VitoCode` nace en honor a Betovito, mi perrito. El nombre me recuerda que detrás de cada línea de código también hay historia, amor, disciplina y propósito.
+`VitoCode Technologies` es mi estudio independiente de software.
+
+El nombre nace en honor a Betovito, mi perrito, y me recuerda que detrás de cada línea de código también hay historia, amor, disciplina y propósito.
 
 <div align="center">
 
 ### Tocoa, Colón, Honduras
-### Building reliable software for the real economy
+
+### Building locally. Thinking globally. Shipping reliable software for the real economy.
 
 </div>
 
